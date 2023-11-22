@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá👋
+
+Eu sou Gerlando, estudante de Ciência da computação no Instituto Federal do Ceará, amo tecnologia e sou um curioso dela, desde criança sempre fui um curioso de saber como as coisas funcionam, assim como no computador. Tive meu primeiro contato com programação aos 16 anos, ainda no Ensino Médio, através do Java com o objetivo de desenvolver um plugin para servidor de Minecraft ⛏️ e me apaixonei pela ideia de criar coisas através da programação. Gosto de aprender coisas novas e acredito que a tecnologia e a programação pode ser a solução para vários problemas do mundo moderno!
+
+### Bem-vindo ao meu espaço no GitHub ❤️
 
 <!--
 **gerlandoprado/gerlandoprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
